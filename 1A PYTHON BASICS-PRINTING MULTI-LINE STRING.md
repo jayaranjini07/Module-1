@@ -1,4 +1,4 @@
-# Experiment No: 1a Python Basics- Printing Multiline String
+![image](https://github.com/user-attachments/assets/9499b303-f837-4847-bf0b-5b4839443a89)# Experiment No: 1a Python Basics- Printing Multiline String
 
 ## AIM  
 To create a Python program to print the string in multiple lines using triple quotes.
@@ -11,9 +11,8 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No- 212223060101
+# Name- JAYA RANJINI S
 
 string_single_quotes = '''I am a string literal
 ... has more than one
@@ -29,6 +28,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/b0494b8b-c7a2-440d-b6e4-af34af2ba1c5)
 
 ## RESULT
-
+Thus the python program to print the string in multiple lines using triple quotes was excuted successfully.
