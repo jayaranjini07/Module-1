@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9499b303-f837-4847-bf0b-5b4839443a89)# Experiment No: 1a Python Basics- Printing Multiline String
+# Experiment No: 1a Python Basics- Printing Multiline String
 
 ## AIM  
 To create a Python program to print the string in multiple lines using triple quotes.
