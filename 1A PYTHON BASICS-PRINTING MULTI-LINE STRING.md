@@ -31,4 +31,4 @@ print(string_double_quotes)
 ![image](https://github.com/user-attachments/assets/b0494b8b-c7a2-440d-b6e4-af34af2ba1c5)
 
 ## RESULT
-Thus the python program to print the string in multiple lines using triple quotes was excuted successfully.
+Thus the python program to print the string in multiple lines using triple quotes was implemented and excuted successfully.
