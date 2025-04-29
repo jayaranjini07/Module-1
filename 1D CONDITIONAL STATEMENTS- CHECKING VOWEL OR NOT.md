@@ -25,4 +25,4 @@ else:
 ![image](https://github.com/user-attachments/assets/5b03d831-46ed-4453-b1b5-150fe876e23a)
 
 ## RESULT
-Thus the python program to check whether a person is eligible to cast his vote using if..else statements.
+Thus the python program to check whether a person is eligible to cast his vote using if..else statements was implemented and executed successfully.
